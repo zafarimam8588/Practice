@@ -1,3 +1,0 @@
-
-this is my first repo
-i am starting my journey of git and github
